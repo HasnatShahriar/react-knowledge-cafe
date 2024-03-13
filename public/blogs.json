@@ -1,0 +1,61 @@
+[
+  {
+    "id": "123456",
+    "cover": "https://i.ibb.co/hZ9kBKV/blog.jpg",
+    "title": "The Mystery of the Lost Artifact",
+    "author": "Jane Doe",
+    "author-img": "https://i.ibb.co/vYHJbVV/author1.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 45,
+    "hashtag": ["mystery", "adventure", "fiction"]
+  },
+  {
+    "id": "789012",
+    "cover": "https://i.ibb.co/9cx7vkp/blog1.jpg",
+    "title": "Space Explorers: Journey to the Unknown",
+    "author": "John Smith",
+    "author-img": "https://i.ibb.co/2882VtW/author2.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 60,
+    "hashtag": ["sciencefiction", "space", "adventure"]
+  },
+  {
+    "id": "345678",
+    "cover": "https://i.ibb.co/pQnJ3nZ/blog2.jpg",
+    "title": "The Secret Garden",
+    "author": "Emily Brown",
+    "author-img": "https://i.ibb.co/4Mv7mQL/auhtor3.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": 30,
+    "hashtag": ["classic", "fantasy", "nature"]
+  },
+  {
+    "id": "901234",
+    "cover": "https://i.ibb.co/rs0cgw3/blog3.jpg",
+    "title": "Detective Max and the Stolen Jewel",
+    "author": "Michael Johnson",
+    "author-img": "https://i.ibb.co/BqJS7kT/blog4.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": 40,
+    "hashtag": ["detective", "crime", "mystery"]
+  },
+  {
+    "id": "567890",
+    "cover": "https://i.ibb.co/BqJS7kT/blog4.jpg",
+    "title": "The Adventures of Captain Adventure",
+    "author": "Sarah Lee",
+    "author-img": "https://i.ibb.co/BqJS7kT/blog4.jpg",
+    "posted_date": "2024-03-09",
+    "reading_time": 50,
+    "hashtag": ["adventure", "action", "fiction"]
+  }
+]
+
+
+
+
+
+
+
+
+
